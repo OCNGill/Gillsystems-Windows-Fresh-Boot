@@ -32,5 +32,5 @@ and then forces a reboot for a **fresh boot** experience.
 ---
 
 ## 👨‍💻 Author
-Developed by **Stephen Gill** with Copilot assistance.  
+Developed by **Stephen Gill**  
 Crafted to demonstrate professional scripting practices and reproducibility.
