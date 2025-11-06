@@ -35,26 +35,11 @@ and then forces a reboot for a **fresh boot** experience.
 Developed by **Gillsystems, Stephen Gill**  
 Crafted to demonstrate professional scripting practices and reproducibility.
 
-
-
 ## 💖 Support / Donate
 
 If you find this project helpful, you can support ongoing work — thank you!
 
-<p align="center">
-	<img src="qr-paypal.png" alt="PayPal QR code" width="180" style="margin:8px;">
-	<img src="qr-venmo.png" alt="Venmo QR code" width="180" style="margin:8px;">
-</p>
-
-
-## 💖 Support / Donate
-
-If you find this project helpful, you can support ongoing work — thank you!
-
-<p align="center">
-	<img src="qr-paypal.png" alt="PayPal QR code" width="180" style="margin:8px;">
-	<img src="qr-venmo.png" alt="Venmo QR code" width="180" style="margin:8px;">
-</p>
+![PayPal QR code](qr-paypal.png) ![Venmo QR code](qr-venmo.png)
 
 
 **Donate:**
@@ -65,12 +50,7 @@ If you find this project helpful, you can support ongoing work — thank you!
 ---
 
 
-<p align="center">
-	<img src="Gillsystems_logo_with_donation_qrcodes.png" alt="Gillsystems logo with QR codes and icons" width="800">
-</p>
+![Gillsystems logo with QR codes and icons](Gillsystems_logo_with_donation_qrcodes.png)
 
-<p align="center">
-	<a href="https://paypal.me/gillsystems"><img src="paypal_icon.png" alt="PayPal" width="32" style="vertical-align:middle;"></a>
-	<a href="https://venmo.com/Stephen-Gill-007"><img src="venmo_icon.png" alt="Venmo" width="32" style="vertical-align:middle;"></a>
-</p>
+[![PayPal](paypal_icon.png)](https://paypal.me/gillsystems) [![Venmo](venmo_icon.png)](https://venmo.com/Stephen-Gill-007)
 
