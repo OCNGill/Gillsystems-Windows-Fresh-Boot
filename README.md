@@ -32,11 +32,10 @@ and then forces a reboot for a **fresh boot** experience.
 ---
 
 ## 👨‍💻 Author
-Developed by **Stephen Gill**  
+Developed by **Gillsystems, Stephen Gill**  
 Crafted to demonstrate professional scripting practices and reproducibility.
 
 ---
-
 ## 💖 Support / Donate
 
 If you find this project helpful, you can support ongoing work — thank you!
