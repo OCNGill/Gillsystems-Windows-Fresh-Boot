@@ -39,7 +39,10 @@ Crafted to demonstrate professional scripting practices and reproducibility.
 
 If you find this project helpful, you can support ongoing work — thank you!
 
-![PayPal QR code](qr-paypal.png) ![Venmo QR code](qr-venmo.png)
+<p align="center">
+	<img src="qr-paypal.png" alt="PayPal QR code" width="140" />
+	<img src="qr-venmo.png" alt="Venmo QR code" width="140" />
+</p>
 
 
 **Donate:**
@@ -50,7 +53,12 @@ If you find this project helpful, you can support ongoing work — thank you!
 ---
 
 
-![Gillsystems logo with QR codes and icons](Gillsystems_logo_with_donation_qrcodes.png)
+<p align="center">
+	<img src="Gillsystems_logo_with_donation_qrcodes.png" alt="Gillsystems logo with QR codes and icons" width="600" />
+</p>
 
-[![PayPal](paypal_icon.png)](https://paypal.me/gillsystems) [![Venmo](venmo_icon.png)](https://venmo.com/Stephen-Gill-007)
+<p align="center">
+	<a href="https://paypal.me/gillsystems"><img src="paypal_icon.png" alt="PayPal" width="32" /></a>
+	<a href="https://venmo.com/Stephen-Gill-007"><img src="venmo_icon.png" alt="Venmo" width="32" /></a>
+</p>
 
