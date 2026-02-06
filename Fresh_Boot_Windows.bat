@@ -2,7 +2,7 @@
 :: ============================================================
 ::  Fresh_Boot_Windows v1.0
 ::  Purpose: Safe, non-destructive fresh boot cleanup
-::  Author: Stephen Gill with Copilot assistance
+::  Author: Stephen Gill
 :: ============================================================
 
 :: --- Elevation check ---
@@ -48,4 +48,5 @@ del /q /s "%SystemRoot%\MEMORY.DMP" >nul 2>&1
 del /q /s "%AppData%\Microsoft\Windows\Recent\*" >nul 2>&1
 
 :: --- Force reboot (fresh boot) ---
+
 shutdown /r /f /t 0
